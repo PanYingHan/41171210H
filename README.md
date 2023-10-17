@@ -6,7 +6,9 @@
 ## 課程筆記區  
 
 ## 作業連結區  
- 9/12 https://panyinghan.github.io/My-Web/
+ HW1 靜態網站 9/12: https://panyinghan.github.io/My-Web/
+
+ HW2 架設動態網站 : [HW2 建立動態網站](https://)
 ## 專題連結區
 
 Markdown 語法說明：https://markdown.tw/
