@@ -24,7 +24,7 @@
 
  HW2 動態網站架設操作影片 : https://youtu.be/2FWkxl65j4A?si=1upFwrZuz_T-vo7Y
 
- HW3 JavaScript小實作 : 
+ HW3 JavaScript小實作 : https://youtu.be/I5VGD4xxdno
  
 ## 專題連結區
 
